@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323332851667",
+    "project_id": "wisemonster-27620",
+    "storage_bucket": "wisemonster-27620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323332851667:android:d4f97d67d2f6b3c9981126",
+        "android_client_info": {
+          "package_name": "com.wikibox.wisemonster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323332851667-nh31bkpi64muogt2uarnl50ngb82hcnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC82k385JVg5-Dpcid3WRfF1JpdwH4viO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323332851667-nh31bkpi64muogt2uarnl50ngb82hcnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
